@@ -2,7 +2,7 @@
 
 SmartFlow AI 기반 지능형 발주 예측 플랫폼의 공식 소개 사이트입니다.
 
-## 🌐 Live Demo
+## 🌐 소개 사이트
 
 **[https://gangrg.github.io/smartflow-introduction-site/](https://gangrg.github.io/smartflow-introduction-site/)**
 
